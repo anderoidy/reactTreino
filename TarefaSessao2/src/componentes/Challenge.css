@@ -1,0 +1,12 @@
+.blocoChallenge {
+    flex: auto;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50px;
+    margin-bottom: 50px;
+    margin-top: auto;
+    margin-left: 100px;
+
+}
