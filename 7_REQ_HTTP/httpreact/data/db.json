@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 60.9
+    },
+    {
+      "id": 2,
+      "name": "Teclado",
+      "price": 220.5
+    },
+    {
+      "id": 3,
+      "name": "Monitor",
+      "price": 1200
+    },
+    {
+      "id": 4,
+      "name": "Mouse",
+      "price": 90
+    },
+    {
+      "id": 5,
+      "name": "Notebook",
+      "price": 1250
+    }
+  ]
+}
